@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="page">
-      <v-card variant="outlined">
+      <v-card class="card" variant="outlined">
         <v-row no-gutters v-if="data">
           <v-col cols="12" sm="4" md="4">
             <div class="col-left">
@@ -52,6 +52,7 @@ onMounted(async() => {
 
 <style lang="scss" scoped>
 .page {
+  .card { border: 1px solid #CFD8DC; }
   .col-left {
     z-index: 100 !important;
     width: 100%;
@@ -79,4 +80,5 @@ onMounted(async() => {
       border-radius: unset !important
     }
   }
-}</style>
+}
+</style>
