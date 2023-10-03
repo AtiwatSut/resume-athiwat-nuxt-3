@@ -1,0 +1,338 @@
+{
+  "EN": {
+    "header": {
+      "title": "Profile",
+      "first_name": "Atiwat",
+      "last_name": "Suttisak",
+      "description": "<small>Hello, My Name Is Tum. I have experience in the position of Front End Developer with more than 3 years of work experience, I take charge of system maintenance and development. Work according to the needs of the company and do analytical thinking To meet the needs and be able to solve problems effectively. I have gained experience from various types of companies that are both software house and in house that teach me to learn a variety of working styles. I like to learn new tools and coding skills to develop systems and solve problems for the organization. and also to challenge my self in new ways to make My lifestyle and self development Happier and more fun.</small>"
+    },
+    "address": {
+      "title": "Contact",
+      "contact": [
+        {
+          "title": "Full Name",
+          "value": "Full Stack Developer",
+          "icon": "mdi:mdi-account"
+        },
+        {
+          "title": "Email",
+          "value": "atiwat.sut@gmail.com",
+          "icon": "mdi:mdi-email"
+        },
+        {
+          "title": "Phone",
+          "value": "062-915-9529",
+          "icon": "mdi:mdi-cellphone"
+        },
+        {
+          "title": "Address",
+          "value": "Khon Kaen 40000",
+          "icon": "mdi:mdi-home"
+        }
+      ]
+    },
+    "skill": {
+      "title": "Skill",
+      "data": [
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU",
+          "text": "HTML5",
+          "power": "90",
+          "color": "#f16528"
+        },
+        {
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+          "text": "CSS",
+          "power": "90",
+          "color": "#264de4"
+        },
+        {
+          "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+          "text": "JAVASCRIPT",
+          "power": "90",
+          "color": "#f7df1e"
+        },
+        {
+          "img": "https://avatars.githubusercontent.com/u/6128107?s=280&v=4",
+          "text": "Vue.js",
+          "power": "80",
+          "color": "#41b883"
+        },
+        {
+          "img": "https://www.datocms-assets.com/205/1667561117-nuxt.svg?auto=format&fit=max&w=1200",
+          "text": "Nuxt.js",
+          "power": "90",
+          "color": "#00dd82"
+        },
+        {
+          "img": "https://avatars.githubusercontent.com/u/22138497?s=200&v=4",
+          "text": "Vuetify",
+          "power": "80",
+          "color": "#1867c0"
+        },
+        {
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+          "text": "React",
+          "power": "70",
+          "color": "#61dbfb"
+        },
+        {
+          "img": "https://miro.medium.com/max/1200/1*15CYVZdpsxir8KLdxEZytg.png",
+          "text": "Angular JS",
+          "power": "70",
+          "color": "#b82934"
+        },
+        {
+          "img": "https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png",
+          "text": "Node JS",
+          "power": "80",
+          "color": "#83cd29"
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvjwXVYF4tN-OI_7TVCfIuIzLIYaHyDkvzznnH85ImHP9-6nYMPQjZcRhtFXe5dN7AHc&usqp=CAU",
+          "text": "Sequelize",
+          "power": "80",
+          "color": "#3c76c3"
+        },
+        {
+          "img": "https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png",
+          "text": "SASS&SCSS",
+          "power": "70",
+          "color": "#cd6799"
+        }
+      ],
+      "items": [
+        {
+          "img": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+          "text": "DOCKER"
+        },
+        {
+          "img": "https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png",
+          "text": "MY SQL"
+        },
+        {
+          "img": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+          "text": "GITHUB"
+        },
+        {
+          "img": "https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png",
+          "text": "GITLAB"
+        },
+        {
+          "img": "https://www.mindphp.com/images/knowledge/IT/768px-Visual_Studio_Code_1.18_icon.svg.png",
+          "text": "VS CODE"
+        },
+        {
+          "img": "https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png",
+          "text": "MONGO DB"
+        }
+      ]
+    },
+    "experience": {
+      "title": "experience",
+      "details": [
+        { 
+          "company": "Three Solutions Co., Ltd.", 
+          "date":"November 2020 - 2021", 
+          "description": [
+            { "text": "Support various systems and amend additional parts of various systems according to the requirement" },
+            { "text": "Frontend development according to requirement & Design using nuxt.js framework with vuetify, do RESTFUL API using Axios." },
+            { "text": "Make a coupon system using line liff in the Frontend and pull the API to use." }
+          ]
+        },
+        { 
+          "company": "Casco IT Company Co., Ltd.",
+          "date":"February 2021 - February 2022", 
+          "description": [
+            { "text": "Support various systems and modify additional parts of various systems according to a requirement" },
+            { "text": "Develop Frontend according to requirement & Design by using the framework angular.js with Bootstrap. Make RESTFUL API by using Axios." },
+            { "text": "Make a logistics system and analyze the data to be displayed. in various formats and use HERE MAP to display the map." }
+          ]
+        },
+        { 
+          "company": "Boonthavorn Ceramic Co., Ltd. Head Office", 
+          "date":"February 2022 - present", 
+          "description": [
+            { "text": "Support various systems and amend additional parts of various systems according to the requirement" },
+            { "text": "Frontend Develop in frontend according to requirement & Design by using Framework nuxt.js with vuetify to do RESTFUL API using Axios." },
+            { "text": "Backend uses node js to do Service API by using Sequelize together with Database Mysql & Mongoose. Fun with Mongo DB." },
+            { "text": "Create a system for capturing images, and videos, and making a Service API to send to other systems." },
+            { "text": "Make a PDPA system and make a Service API to be used in other systems." },
+            { "text": "Modify various systems within the company." }
+          ]
+        }
+      ]
+    },
+    "educational": {
+      "title": "ประวัติการศึกษา"
+    }
+  },
+  "TH": {
+    "header": {
+      "title": "ข้อมูลส่วนตัว",
+      "first_name": "นาย อธิวัฒน์",
+      "last_name": "สุทธิศักดิ์",
+      "description": "<small>สวัสดีครับ ผมตั้ม ตอนนี้ทำงาน ในตำแหน่ง Front End Developer มีประสบการณ์ทำงานมากกว่า 3 ปี ผมรับหน้าที่ดูแลและพัฒนาระบบ ทำงานตามความต้องการของบริษัท ทำการคิดวิเคราะห์ เพื่อให้ตรงกับความต้องการและสามารถแก้ปัญหาได้อย่างมีสิทธิภาพ ผมได้รับประสบการณ์มาจากบริษัทหลากหลายรูปแบบ ที่มีทั้งแบบ Software house และ in house ที่สอนให้ผมได้เรียนรู้การทำงานหลากหลายสไตล์ เป็นคนชอบเรียนรู้ Tools และ Coding skill ใหม่ๆ เพื่อใช้พัฒนาระบบและแก้ไขปัญหาให้องค์กร และยังเป็นการท้าทายตัวเองในแนวทางใหม่ๆเพื่อให้ ไลฟ์สไตล์และการพัฒนาตัวเองของผม มีความสุขและสนุกมากยิ่งขึ้น</small>"
+    },
+    "address": {
+      "title": "ติดต่อ",
+      "contact": [
+        {
+          "title": "Full Name",
+          "value": "Full Stack Developer",
+          "icon": "mdi:mdi-account"
+        },
+        {
+          "title": "Email",
+          "value": "atiwat.sut@gmail.com",
+          "icon": "mdi:mdi-email"
+        },
+        {
+          "title": "Phone",
+          "value": "062-915-9529",
+          "icon": "mdi:mdi-cellphone"
+        },
+        {
+          "title": "Address",
+          "value": "จ.ขอนแก่น 40000",
+          "icon": "mdi:mdi-home"
+        }
+      ]
+    },
+    "skill": {
+      "title": "สกิล",
+      "data": [
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU",
+          "text": "HTML5",
+          "power": "90",
+          "color": "#f16528"
+        },
+        {
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+          "text": "CSS",
+          "power": "90",
+          "color": "#264de4"
+        },
+        {
+          "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+          "text": "JAVASCRIPT",
+          "power": "90",
+          "color": "#f7df1e"
+        },
+        {
+          "img": "https://avatars.githubusercontent.com/u/6128107?s=280&v=4",
+          "text": "Vue.js",
+          "power": "80",
+          "color": "#41b883"
+        },
+        {
+          "img": "https://www.datocms-assets.com/205/1667561117-nuxt.svg?auto=format&fit=max&w=1200",
+          "text": "Nuxt.js",
+          "power": "90",
+          "color": "#00dd82"
+        },
+        {
+          "img": "https://avatars.githubusercontent.com/u/22138497?s=200&v=4",
+          "text": "Vuetify",
+          "power": "80",
+          "color": "#1867c0"
+        },
+        {
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+          "text": "React",
+          "power": "70",
+          "color": "#61dbfb"
+        },
+        {
+          "img": "https://miro.medium.com/max/1200/1*15CYVZdpsxir8KLdxEZytg.png",
+          "text": "Angular JS",
+          "power": "70",
+          "color": "#b82934"
+        },
+        {
+          "img": "https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png",
+          "text": "Node JS",
+          "power": "80",
+          "color": "#83cd29"
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvjwXVYF4tN-OI_7TVCfIuIzLIYaHyDkvzznnH85ImHP9-6nYMPQjZcRhtFXe5dN7AHc&usqp=CAU",
+          "text": "Sequelize",
+          "power": "80",
+          "color": "#3c76c3"
+        },
+        {
+          "img": "https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png",
+          "text": "SASS&SCSS",
+          "power": "70",
+          "color": "#cd6799"
+        }
+      ],
+      "items": [
+        {
+          "img": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+          "text": "DOCKER"
+        },
+        {
+          "img": "https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png",
+          "text": "MY SQL"
+        },
+        {
+          "img": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+          "text": "GITHUB"
+        },
+        {
+          "img": "https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png",
+          "text": "GITLAB"
+        },
+        {
+          "img": "https://www.mindphp.com/images/knowledge/IT/768px-Visual_Studio_Code_1.18_icon.svg.png",
+          "text": "VS CODE"
+        },
+        {
+          "img": "https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png",
+          "text": "MONGO DB"
+        }
+      ]
+    },
+    "experience": {
+      "title": "ประสบการณ์",
+      "details": [
+        { 
+          "company": "บริษัท ตรีโซลูชั่นส์ จำกัด", 
+          "date":"พฤศจิกายน 2563 - 2564", 
+          "description": [
+            { "text": "Support ระบบต่างๆ และ แก้ไขเพิ่มเติมในส่วนของระบบต่างๆตาม requirement" },
+            { "text": "พัฒนาในส่วนของ Frontend ตาม requirement & Design โดยใช้ Framework nuxt.js ร่วมกับ vuetify ทำ RESTFUL API โดยใช้ร่วมกับ Axios" },
+            { "text": "ทำระบบคูปอง โดยใช้ line liff ในส่วน Frontend และ ดึง API มาใช้" }
+          ]
+        },
+        { 
+          "company": "บริษัท คาสโก้ไอที จำกัด",
+          "date":"กุมภาพันธ์ 2564 - กุมภาพันธ์ 2565", 
+          "description": [
+            { "text": "Support ระบบต่างๆ และ แก้ไขเพิ่มเติมในส่วนของระบบต่างๆตาม requirement" },
+            { "text": "พัฒนาในส่วนของ Frontend ตาม requirement & Design โดยใช้ Framework angular.js ร่วมกับ bootstrap ทำ RESTFUL API โดยใช้ร่วมกับ Axios" },
+            { "text": "ทำระบบโลจิสติกส์ และ วิเคาระห์ข้อมูลเพื่อนำมาแสดงผล ในรูปแบบต่างๆ และ ใช้ HERE MAP ในการแสดงแผนที่" }
+          ]
+        },
+        { 
+          "company": "บริษัท บุญถาวรเซรามิค จำกัด สำนักงานใหญ่", 
+          "date":"กุมภาพันธ์ 2565 - ปัจจุบัน", 
+          "description": [
+            { "text": "Support ระบบต่างๆ และ แก้ไขเพิ่มเติมในส่วนของระบบต่างๆตาม requirement" },
+            { "text": "Frontend พัฒนาในส่วนของ Frontend ตาม requirement & Design โดยใช้ Framework nuxt.js ร่วมกับ vuetify ทำ RESTFUL API โดยใช้ร่วมกับ Axios" },
+            { "text": "Backend ใช้ node js ในการทำ Service API โดยใช้ Sequelize ร่วมกับ Database Mysql & Mongoose ร่วนกับ Mongo DB" },
+            { "text": "ทำระบบ เก็บภาพ วิดีโอ และทำ Service API เพื่อส่งไปใช้ในระบบอื่นๆ" },
+            { "text": "ทำระบบ PDPA และทำ Service API เพื่อส่งไปใช้ในระบบอื่นๆ" },
+            { "text": "แก้ไขเพิ่มเติมระบบต่างๆ ภายในบริษัท" }
+          ]
+        }
+      ]
+    },
+    "educational": {
+      "title": "ประวัติการศึกษา"
+    }
+  }
+}
